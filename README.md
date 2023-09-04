@@ -16,9 +16,10 @@ Requirements:
 #### Open the project in your IDE.
 #### Run the app in Expo.
 by 
-```
+
+`
 expo start
-```
+`
 
 ## Usage
 
